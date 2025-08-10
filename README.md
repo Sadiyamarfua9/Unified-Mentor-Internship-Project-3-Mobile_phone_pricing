@@ -30,7 +30,7 @@
  ● touch_screen: Has touch screen or not<br>
  ● wifi: Has WiFi or not<br>
  ● Price_range: This is the target<br>
- &nbsp;&nbsp;&nbsp; ○ 0=low cost<br>
- &nbsp;&nbsp;&nbsp; ○ 1=medium cost<br>
- &nbsp;&nbsp;&nbsp; ○ 2=high cost<br>
- &nbsp;&nbsp;&nbsp; ○ 3=very high cost
+ &nbsp;&nbsp;&nbsp;&nbsp; ○ 0=low cost<br>
+ &nbsp;&nbsp;&nbsp;&nbsp; ○ 1=medium cost<br>
+ &nbsp;&nbsp;&nbsp;&nbsp; ○ 2=high cost<br>
+ &nbsp;&nbsp;&nbsp;&nbsp; ○ 3=very high cost
