@@ -25,7 +25,7 @@
  ● ram:RaminMB<br>
  ● sc_h: Mobile Screen height in cm<br>
  ● sc_w:Mobile Screen width in cm<br>
- ● talk_time: Time a single battery charge will last in hours.>br>
+ ● talk_time: Time a single battery charge will last in hours.<br>
  ● three_g: Has 3G or not<br>
  ● touch_screen: Has touch screen or not<br>
  ● wifi: Has WiFi or not<br>
